@@ -1,12 +1,10 @@
-**The free deployment failed because embedding models pulled heavy torch dependencies and exceeded Render’s memory limits. I optimized dependencies, explored CPU-only deployments, and considered architecture alternatives.**
-
-# 🎙️ Voice Research Paper Explainer
+# Voice Research Paper Explainer
 
 An AI-powered research assistant that allows users to upload research papers in PDF format, ask questions using text or voice, and receive AI-generated responses in both text and speech format.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Upload research paper PDFs
 - Extract text from PDF files
@@ -21,7 +19,7 @@ An AI-powered research assistant that allows users to upload research papers in 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React.js
@@ -47,7 +45,7 @@ An AI-powered research assistant that allows users to upload research papers in 
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 ```text
 User Uploads PDF
