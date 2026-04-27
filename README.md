@@ -3,6 +3,9 @@
 An AI-powered research assistant that allows users to upload research papers in PDF format, ask questions using text or voice, and receive AI-generated responses in both text and speech format.
 
 ---
+## UI Preview
+
+![Voice Research Paper Explainer UI](images/ui-preview.png)
 
 ## Features
 
