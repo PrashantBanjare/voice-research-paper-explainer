@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "backend"
+        },
+        {
+            "path": "frontend"
+        }
+    ],
+    "settings": {
+        "python.defaultInterpreterPath": "backend/venv/Scripts/python.exe",
+        "python.analysis.pythonPath": "backend/venv/Scripts/python.exe"
+    }
+}

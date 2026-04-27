@@ -1,0 +1,9 @@
+venv/
+backend/venv/
+node_modules/
+__pycache__/
+.env
+uploads/
+dist/
+*.pyc
+response.mp3

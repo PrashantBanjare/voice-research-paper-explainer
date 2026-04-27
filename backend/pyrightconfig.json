@@ -1,0 +1,9 @@
+{
+    "venvPath": "c:\\DEKSTOP\\DataScience\\voice-research-paper-explainer\\backend",
+    "pythonVersion": "3.14",
+    "executionEnvironments": [
+        {
+            "root": "c:\\DEKSTOP\\DataScience\\voice-research-paper-explainer\\backend"
+        }
+    ]
+}
